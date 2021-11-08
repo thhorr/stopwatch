@@ -1,0 +1,18 @@
+.pause{
+    background-color: aqua;
+}
+
+.play{
+    background-color: yellow;
+    margin-left: 5px;
+}
+
+.reset{
+    background-color: lightgreen;
+    margin-left: 5px;
+}
+
+.main{
+    margin-top: 200px;
+    font-family:cursive;
+}
